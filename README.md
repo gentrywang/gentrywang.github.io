@@ -17,3 +17,7 @@
 <h1> Gentry Wang (王诩) </h1>
 
 <h3> Undergraduate Student. Fort Hayes State University 
+
+<p> 这里是个人随笔的空间，也是随意建立的一个空间，有何问题可以联系我</p>
+
+
